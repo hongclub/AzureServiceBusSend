@@ -1,0 +1,11 @@
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\bin\Debug\netcoreapp2.0\ConsoleSend.deps.json
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\bin\Debug\netcoreapp2.0\ConsoleSend.runtimeconfig.json
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\bin\Debug\netcoreapp2.0\ConsoleSend.runtimeconfig.dev.json
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\bin\Debug\netcoreapp2.0\ConsoleSend.dll
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\obj\Debug\netcoreapp2.0\ConsoleSend.csprojAssemblyReference.cache
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\obj\Debug\netcoreapp2.0\ConsoleSend.csproj.CoreCompileInputs.cache
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\obj\Debug\netcoreapp2.0\ConsoleSend.AssemblyInfoInputs.cache
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\obj\Debug\netcoreapp2.0\ConsoleSend.AssemblyInfo.cs
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\bin\Debug\netcoreapp2.0\ConsoleSend.pdb
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\obj\Debug\netcoreapp2.0\ConsoleSend.dll
+c:\users\x104186\source\repos\ConsoleSend\ConsoleSend\obj\Debug\netcoreapp2.0\ConsoleSend.pdb
